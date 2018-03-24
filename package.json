@@ -1,0 +1,26 @@
+{
+  "name": "gatsby-remark-emoji-unicode",
+  "description": "gatsby remark plugin to convert emoji code to unicode",
+  "version": "0.1.0",
+  "main": "index.js",
+  "author": "Neo Nie <nihgwu@live.com>",
+  "homepage": "https://github.com/nihgwu/gatsby-remark-emoji-unicode",
+  "repository": "https://github.com/nihgwu/gatsby-remark-emoji-unicode",
+  "bugs": {
+    "url": "https://github.com/nihgwu/gatsby-remark-emoji-unicode/issues"
+  },
+  "license": "MIT",
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin",
+    "remark",
+    "emoji"
+  ],
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "node-emoji": "^1.8.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
